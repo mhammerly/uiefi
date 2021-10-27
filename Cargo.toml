@@ -1,0 +1,11 @@
+[package]
+name = "efi_hello"
+version = "0.1.0"
+authors = ["Matt <hammerly.matt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+uefi = "*"
+uefi-services = "*"
+log = "*"
+no-std-compat = { version = "*", features = [ "alloc" ] }

@@ -1,0 +1,5 @@
+scripts/ovmf/*
+scripts/put_on_esp/*
+scripts/fat32.fs
+target/
+.cargo/
