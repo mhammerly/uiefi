@@ -8,6 +8,8 @@ this is 100% a playgrounding project and it's mostly going on github so i can se
 feedback on my rust code. once i figured out how to write to a framebuffer i basically
 ignored uefi functionality. so don't take it too seriously
 
+<img src="https://user-images.githubusercontent.com/1198161/139126945-118f1c1b-6042-495f-9f4f-9010ecd81af7.png" width="500px">
+
 ## usage
 
 make an `Application` and call `run_loop()` on it.
